@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayur Dudhal</h1>
-<h3 align="center">A Final Year B.tech Student</h3>
+<h3 align="center">A Final Year B.Tech Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayur3636&label=Profile%20views&color=0e75b6&style=flat" alt="mayur3636" /> </p>
 
